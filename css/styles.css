@@ -1,0 +1,88 @@
+body {
+  margin: 0 auto 0 auto;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 100px;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+ width: 10%;
+}
+
+.divtop {
+  background-color: #99b898;
+  position: relative;
+  padding-top: 100px;
+}
+
+.divmid {
+  background-color: #feceab;
+}
+
+.tentang {
+  line-height: 2;
+  width: 25%;
+  margin : 20px auto 100px auto;
+}
+
+.divbot {
+    background-color: #ff847c;
+}
+
+.bot-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px
+}
+
+.skill-row {
+  width: 50%;
+  margin : 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.gitar {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.mancing {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.poto {
+  width: 15%;
+  margin-top: 100px;
+}
+
+.skills {
+  margin : 100px auto 100px auto;
+}
+
+.cpy {
+  margin: 0 auto 0 auto;
+}
